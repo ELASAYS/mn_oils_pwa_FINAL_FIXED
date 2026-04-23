@@ -1,0 +1,28 @@
+{
+  "name": "محمد نور لزيوت السيارات",
+  "short_name": "محمد نور",
+  "description": "قائمة أسعار جملة الزيوت والفلاتر والشحومات — محدّثة يوميًا",
+  "start_url": "/mn_oils_pwa/",
+  "scope": "/mn_oils_pwa/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F7F5F0",
+  "theme_color": "#C9952A",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["business", "shopping"],
+  "icons": [
+    {
+      "src": "/mn_oils_pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/mn_oils_pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
